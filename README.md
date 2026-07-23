@@ -34,8 +34,7 @@ Cybersecurity-Password-Analyzer/
 │
 ├── password_analyzer.py
 ├── common_passwords.txt
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
